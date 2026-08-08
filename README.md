@@ -1,8 +1,6 @@
 # 🛡️ Intent Detection System using Computer Vision & Deep Learning
 
-<p align="center">
-  <img src="assets/banner.png" alt="Intent Detection System Banner" width="100%">
-</p>
+
 
 <p align="center">
 
